@@ -10,6 +10,7 @@
   - Animations: Investigating..., lottie for cool stuff
   - API: axios for rest, investigating best graphql solution
   - OTA: Expo works great to get up and running, code push for native
+  - Testing: Jest for business logic, react-native-test-renderer for UI testing, and Detox if big team
   - CI/CD: Bitrise has a great GUI dashboard, Azure, AppCenter, Github Actions, Bitbucket Pipelines all work nicely
   - Workflow: Gitflow for bigger teams, must have great lint setup, helping team and code reviews should be a priority
 - 🌱 I’m currently learning ... (AWS and becoming an expert in mobile space)
