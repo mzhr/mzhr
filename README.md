@@ -3,7 +3,7 @@
   - Framework: React Native, stable and standard, typescript, can onboard web developers at ease, easy to extend
   - Navigation: React Navigation works great enough 🙂
   - State Management: Still investgating but best experience has been mobx-state-tree following by redux-tool-kit, usually opt for context
-  - Forms: react-hook-forms although if on Zustrand, benefit isn't worth the transition
+  - Forms: react-hook-forms although if on Formik, benefit isn't worth the transition
   - UI: css-in-js for RN is not useful when StyleSheet exists, although react-native-paper is great to get up and running
   - Native&Others: react-native-bootsplash, react-native-community packages, rea
   - Cloud: Firebase when working solo, AWS Amplify (doesn't have great typescript integration) when working with a smart team
