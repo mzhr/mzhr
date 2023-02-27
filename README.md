@@ -13,6 +13,7 @@ Melbourne ⚛️ React Native Platform Lead at CI&T. 📱 I make apps, learn abo
 * [Twitter](https://twitter.com/mzhr)
 * [LinkedIn](https://www.linkedin.com/in/mazhar-morshed/)
 * [Github](https://github.com/mzhr)
+* [mzhr.github.io](https://mzhr.github.io)
 
 ## ✏️ links.
 
