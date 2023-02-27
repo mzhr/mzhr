@@ -17,6 +17,7 @@ Melbourne ⚛️ React Native Platform Lead at CI&T. 📱 I make apps, learn abo
 
 ## ✏️ links.
 
+* [React Native Starter Kit](https://github.com/mzhr/react-native-starter-kit)
+* [React Native Path to Mastery](https://github.com/mzhr/react-native-path-to-mastery)
 * [Naseehah Bot](https://linktr.ee/naseehahbot)
 * [Islam Datasets](https://github.com/mzhr/islam-datasets)
-* [React Native Path to Mastery](https://github.com/mzhr/react-native-path-to-mastery)
