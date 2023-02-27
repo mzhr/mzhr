@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mzhr
+# 👋 Hi, I’m Mazhar
 
 <!---
 mzhr/mzhr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
