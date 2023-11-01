@@ -18,6 +18,6 @@
 <h2 align="left">📧 Get in Touch</h2>
 <p align="left">Feel free to contact me:</p>
 <p align="left">
-    <a href="https://twitter.com/mazhardev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" height="28"></a>
-    <a href="https://www.linkedin.com/in/mazhar-morshed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="28"></a>
+    <a href="https://twitter.com/mazhardev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" height="24"></a>
+    <a href="https://www.linkedin.com/in/mazhar-morshed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="24"></a>
 </p>
