@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="left">I'm Mazhar.</h1>
+<h1 align="left">I'm Mazhar</h1>
 
 <!-- Intro -->
 <p align="left">I'm a software developer in Melbourne, Australia. I make client-facing apps mostly in the Typescript space and infrastructure/servers to handle the backends for it. You'll see most of my projects relating to this and in relation to the muslim and arabic learning community.</p>
