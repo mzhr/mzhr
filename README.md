@@ -2,7 +2,7 @@
 <h1 align="left">I'm Mazhar.</h1>
 
 <!-- Intro -->
-<p align="left">I'm a React Native Platform Lead at CI&T, based in Melbourne, Australia. I love building mobile apps and helping others learn how to build them too. In my spare time, I'm also passionate about creating projects related to Islam to help the Muslim community 🕌.</p>
+<p align="left">I'm a software developer in Melbourne, Australia. I make client-facing apps mostly in the Typescript space and infrastructure/servers to handle the backends for it. You'll see most of my projects relating to this and in relation to the muslim and arabic learning community.</p>
 
 <!-- Projects -->
 <h2 align="left">🚀 Links</h2>
@@ -15,10 +15,9 @@
 </p>
 
 <!-- Social Media and Contact Info -->
-<h2 align="left">📞 Get in Touch</h2>
+<h2 align="left">📧 Get in Touch</h2>
 <p align="left">Feel free to contact me:</p>
 <p align="left">
-    <a href="https://twitter.com/mzhr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" height="28"></a>
+    <a href="https://twitter.com/mazhardev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" height="28"></a>
     <a href="https://www.linkedin.com/in/mazhar-morshed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="28"></a>
-    <a href="https://github.com/mzhr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" height="28"></a>
 </p>
